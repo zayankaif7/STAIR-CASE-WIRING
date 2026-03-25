@@ -1,5 +1,6 @@
 # STAIR-CASE-WIRING
-
+### Name:Mohammmed zayan kaif T
+### Reg no:212224080040
 AIM
 To control the status of the given lamp by using two – way switches.
 
@@ -44,5 +45,4 @@ Tabulation 2
 <img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/8e944ce6-90c1-4308-b06d-23fe8f9dfb36" />
 
 Result: 
-
 
